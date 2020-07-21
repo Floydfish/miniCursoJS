@@ -22,6 +22,4 @@ const root = document.querySelector('#root')
 
 // Tagged Template String
 
-Title`
-    color: red;
-    `
+const title = Title``
