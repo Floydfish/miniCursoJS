@@ -24,9 +24,6 @@ const css = `<style>
                 padding-top: 4rem;
             }
 
-            #uni {
-                display: inline-block;
-            }
 </style>`
 
 const head = document.querySelector('head')
