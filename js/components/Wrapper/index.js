@@ -24,6 +24,7 @@ const uniH = Character`
 const wrapper = Wrapper`
     display: flex;
     justify-content: space-evenly;
+    width: 100%;
     ${uniE + uniN + uniH}
 `
 
